@@ -2,4 +2,6 @@
 
 ## super dicas do GIT
 
-o GIT é um cara bem legal
+Meu nome é Nikolas Adriano Wahrmeister
+O curso de hoje é de Monitorar projetos de aplicação web
+Hoje é dia 01/04/2021
